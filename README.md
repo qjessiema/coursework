@@ -3,9 +3,9 @@ This repo contains all of the relevant coursework I have completed at Toronto Me
 1. Data science, statistical and analytics approaches and methods
 1. Big Data management tools and database interactions
    
-Here is a brief description of each file.
+**Here is a brief description of each file.**
 
-CIND-123-Data Analytics: Basic Methods (TMU)
+**CIND-123-Data Analytics: Basic Methods (TMU)**
 Course description: Using R in R Studio to fit and analyze linear regressions, process and parse through datasets, analyze them, apply statistical calculations and graph probability distributions. 
 
 </br>1. Assignment-1-Qian (Jessie) Ma-Sequences, Vectors, Arrays, Matrices, Plots
@@ -30,7 +30,7 @@ Course description: Using R in R Studio to fit and analyze linear regressions, p
    - Visualize and interpret data using graphical plots
    - Using Monte Carlo Method to simulate probability processes
 
-3250-Foundations of Data Science (UofT)
+**3250-Foundations of Data Science (UofT)**
 Course description: Using Python to perform data storage, cleansing, processing, analysis and visualization, and Machine Learning methods to evaluate model performance and make data predictions.
 
 </br>1. Assignment-1-Qian (Jessie) Ma-Birthday Paradox and Assignment-1-Qian (Jessie) Ma-Intro to Python
@@ -52,3 +52,31 @@ Course description: Using Python to perform data storage, cleansing, processing,
    - Built ML model using k-nearest neighbors KNeighborsClassifier from Python scikit-learn library
    - Performed predictive analysis on a variable based on available features
    - Evaluated ML model accuracy
+
+</br>5. Final Project-NCDB Analysis (Work Completed in Group)
+   - Performed data mining operations; retrieved, prepared, analyzed and visualized road traffic collisions in Canada from National Collision Database using Python
+   - Identified root causes and visible trends
+   - Analyzed correlation between collision variables
+   - Prescriptive analysis to produce actionable strategies to reduce volume and severity of collisions based on data analysis
+
+**3252-Big Data Management Systems & Tools (UofT)**
+Course description: Understand Big Data systems and hands-on experience working with NoSQL databases using SQL, MongoDB Query Language, and Python/PySpark to query, process and analyze large datasets.
+
+</br>1. Assignment-1-Qian (Jessie) Ma-SQL Queries
+   - Manipulated and generated valuable information from data using SQL queries
+
+</br>2. Assignment-2-Qian (Jessie) Ma-MongoDB
+   - Used MQL to perform database updates and manipulations
+   - Generated meaningful dataframes for further decision-making
+
+</br>3. Assignment-3-Qian (Jessie) Ma-PySpark and Linear Regression in Databricks
+   - Performed data mining techniques and built Machine Learning model using PySpark in Databricks
+
+</br>4. Assignment-4-Qian (Jessie) Ma-Building Apache Spark ML Model to Predict Diamond Prices and Assignment-4-Qian (Jessie) Ma-Hyperparameter Tuning and Model Performance Improvements
+   - Built ML model for predictive and presriptive data analysis (predict the price of a diamond based on features)
+   - Performed hyperparameter tuning to enhance performance of ML model
+
+</br>5. Final Project-Analyzing Micromobility Data
+   - Used stream-processing technique to ingest data into Databricks
+   - Cleansed, prepared, analyzed and visualized micromobility data from Seattle's notable service provider: Lime
+   - Provided actionable strategies to improve micromobility plan based on data analysis performed
