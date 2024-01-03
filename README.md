@@ -6,7 +6,7 @@ This repo contains all of the relevant coursework I have completed at Toronto Me
 **Here is a brief description of each file.**
 
 **CIND-123-Data Analytics: Basic Methods (TMU)**
-Course description: Using R in R Studio to fit and analyze linear regressions, process and parse through datasets, analyze them, apply statistical calculations and graph probability distributions. 
+</br>Course description: Using R in R Studio to fit and analyze linear regressions, process and parse through datasets, analyze them, apply statistical calculations and graph probability distributions. 
 
 </br>1. Assignment-1-Qian (Jessie) Ma-Sequences, Vectors, Arrays, Matrices, Plots
    - Created and printed various data structures including vectors, arrays, matrices, arrays
@@ -31,7 +31,7 @@ Course description: Using R in R Studio to fit and analyze linear regressions, p
    - Using Monte Carlo Method to simulate probability processes
 
 **3250-Foundations of Data Science (UofT)**
-Course description: Using Python to perform data storage, cleansing, processing, analysis and visualization, and Machine Learning methods to evaluate model performance and make data predictions.
+</br>Course description: Using Python to perform data storage, cleansing, processing, analysis and visualization, and Machine Learning methods to evaluate model performance and make data predictions.
 
 </br>1. Assignment-1-Qian (Jessie) Ma-Birthday Paradox and Assignment-1-Qian (Jessie) Ma-Intro to Python
    - Hands-on Python programming using various functions, including For Loops, If Statements, data indexing and parsing
@@ -60,7 +60,7 @@ Course description: Using Python to perform data storage, cleansing, processing,
    - Prescriptive analysis to produce actionable strategies to reduce volume and severity of collisions based on data analysis
 
 **3252-Big Data Management Systems & Tools (UofT)**
-Course description: Understand Big Data systems and hands-on experience working with NoSQL databases using SQL, MongoDB Query Language, and Python/PySpark to query, process and analyze large datasets.
+</br>Course description: Understand Big Data systems and hands-on experience working with NoSQL databases using SQL, MongoDB Query Language, and Python/PySpark to query, process and analyze large datasets.
 
 </br>1. Assignment-1-Qian (Jessie) Ma-SQL Queries
    - Manipulated and generated valuable information from data using SQL queries
