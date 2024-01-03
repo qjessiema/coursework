@@ -7,7 +7,7 @@ Here is a brief description of each file.
 
 CIND-123-Data Analytics: Basic Methods (TMU)
 Course description: Using R in R Studio to fit and analyze linear regressions, process and parse through datasets, analyze them, apply statistical calculations and graph probability distributions. 
-	1.Assignment-1-Qian (Jessie) Ma-Sequences, Vectors, Arrays, Matrices, Plots
+</br>1.Assignment-1-Qian (Jessie) Ma-Sequences, Vectors, Arrays, Matrices, Plots
    - Created and printed various data structures including vectors, arrays, matrices, arrays
    - Computed formulas in R
    - Computed descriptive statistics on a dataset (IQR, Mean, Median, Standard Deviation)
