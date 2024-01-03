@@ -8,19 +8,19 @@ Here is a brief description of each file.
 CIND-123-Data Analytics: Basic Methods (TMU)
 Course description: Using R in R Studio to fit and analyze linear regressions, process and parse through datasets, analyze them, apply statistical calculations and graph probability distributions. 
 
-</br>1.Assignment-1-Qian (Jessie) Ma-Sequences, Vectors, Arrays, Matrices, Plots
+</br>1. Assignment-1-Qian (Jessie) Ma-Sequences, Vectors, Arrays, Matrices, Plots
    - Created and printed various data structures including vectors, arrays, matrices, arrays
    - Computed formulas in R
    - Computed descriptive statistics on a dataset (IQR, Mean, Median, Standard Deviation)
    - Constructed and analyzed graphs
-</br>
-</br>2.Assignment-2-Qian (Jessie) Ma-Cleansing Datasets, Aggregations, For Loops, Probability Distributions
+
+</br>1. Assignment-2-Qian (Jessie) Ma-Cleansing Datasets, Aggregations, For Loops, Probability Distributions
    - Cleansed and parsed through dataset
    - Count, Group by and Aggregate functions
    - Graphed data using built-in R functions and R software packages such as Plotly
    - Calculated and graphed Binomial, Poisson and Normal Distributions
-</br>
-</br>3.Assignment-3-Qian (Jessie) Ma-Linear Regression, Least-Square, Dataset Analysis, Descriptive Stats, Correlations
+
+</br>1. Assignment-3-Qian (Jessie) Ma-Linear Regression, Least-Square, Dataset Analysis, Descriptive Stats, Correlations
    - Analyzed ML models - performed linear regression analysis in R and used model to predict variable probabilities
    - Evaluated the significance and strength of relationships between variables in linear models
    - Compared performance of two linear regression models
@@ -32,7 +32,7 @@ Course description: Using R in R Studio to fit and analyze linear regressions, p
 
 3250-Foundations of Data Science (UofT)
 Course description: Using Python to perform data storage, cleansing, processing, analysis and visualization, and Machine Learning methods to evaluate model performance and make data predictions.
-</br>
+
 </br>1.Assignment-1-Qian (Jessie) Ma-Birthday Paradox and Assignment-1-Qian (Jessie) Ma-Intro to Python
    - Hands-on Python programming using various functions, including For Loops, If Statements, data indexing and parsing
 </br>
