@@ -4,7 +4,7 @@ This repo contains all of the relevant coursework I have completed at Toronto Me
 1. Data science, statistical and analytics approaches and methods
 1. Big Data management tools and database interactions
 
-Programming languages used: Python, R, PySpark, Spark SQL, SQL, Mongo Query Language
+Programming languages used: Python, R, PySpark, Spark SQL, SQL, MongoDB Query Language
 
 **Here is a brief description of each file.**
 
