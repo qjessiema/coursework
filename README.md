@@ -1,10 +1,10 @@
 This repo contains all of the relevant coursework I have completed at Toronto Metropolitan University and University of Toronto. The coursework consists of individual and group projects I completed related to:
-1. Machine learning model building, evaluation and predictions
-2. Data preparation, transformation, and visualization
-1. Data science, statistical and analytics approaches and methods
-1. Big Data management tools and database interactions
+**1. Machine learning model building, evaluation and predictions**
+**1. Data preparation, transformation, and visualization**
+**1. Data science, statistical and analytics approaches and methods**
+**1. Big Data management tools and database interactions**
 
-Programming languages used: Python, R, PySpark, Spark SQL, SQL, MongoDB Query Language
+**Programming languages used: Python, R, PySpark, Spark SQL, SQL, MongoDB Query Language**
 
 **Here is a brief description of each file.**
 
