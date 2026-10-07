@@ -1,4 +1,13 @@
-This repo contains all of the relevant coursework I have completed at Toronto Metropolitan University and University of Toronto. The coursework consists of individual and group projects I completed related to:
+**This repo contains all of the course projects I completed at Toronto Metropolitan University as part of my Master of Electrical and Computer Engineering - AI Concentration Program.**
+Courses include:
+1. EE8901 - Smart Grids
+1. EE8216 - Computer Networks
+1. EE8223 - Deep Learning
+1. EE8204 - Neural Networks
+1. DS8008 - NLP (Text Mining)
+1. DS8007 - Advanced Data Visualization
+
+**I have also added relevant coursework I completed at Toronto Metropolitan University and the University of Toronto prior to starting my MEng program. The coursework consists of individual and group projects I completed related to the following areas:**
 1. Machine learning model building, evaluation and predictions
 1. Data preparation, transformation, and visualization
 1. Data science, statistical and analytics approaches and methods
@@ -6,7 +15,7 @@ This repo contains all of the relevant coursework I have completed at Toronto Me
 
 **Programming languages used: Python, R, PySpark, Spark SQL, SQL, MongoDB Query Language**
 
-**Here is a brief description of each file.**
+**Here is a brief description of each file related to MEng prerequisite coursework.**
 
 **CIND-123-Data Analytics: Basic Methods (TMU)**
 </br>Course description: Using R in R Studio to fit and analyze linear regressions, process and parse through datasets, analyze them, apply statistical calculations and graph probability distributions. 
