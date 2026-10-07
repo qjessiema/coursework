@@ -1,7 +1,7 @@
 **This repo contains all of the course projects I completed at Toronto Metropolitan University as part of my Master of Electrical and Computer Engineering - AI Concentration Program.**
 Courses include:
 1. EE8901 - Smart Grids
-1. EE8216 - Computer Networks
+1. EE8216 - Advanced Computer Networks
 1. EE8223 - Deep Learning
 1. EE8204 - Neural Networks
 1. DS8008 - NLP (Text Mining)
